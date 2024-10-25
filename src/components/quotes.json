@@ -1,0 +1,724 @@
+{
+    "quotes": [
+        {
+            "q": "Love your neighbor as yourself.",
+            "a": "Bible - Mark 12:31",
+            "source": "Christianity"
+        },
+        {
+            "q": "Do not be overcome by evil, but overcome evil with good.",
+            "a": "Bible - Romans 12:21",
+            "source": "Christianity"
+        },
+        {
+            "q": "The truth is from your Lord, so do not be among the doubters.",
+            "a": "Quran - 3:60",
+            "source": "Islam"
+        },
+        {
+            "q": "Speak what is true, speak what is pleasant, and do not speak unpleasant truths.",
+            "a": "Bhagavad Gita - 17.15",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Better than a thousand hollow words is one word that brings peace.",
+            "a": "Buddha - Dhammapada",
+            "source": "Buddhism"
+        },
+        {
+            "q": "What is hateful to you, do not do to others.",
+            "a": "Hillel - Talmud",
+            "source": "Judaism"
+        },
+        {
+            "q": "Happiness is not something ready made. It comes from your own actions.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "The best among you are those who have the best character.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "All action results from thought, so it is thoughts that matter.",
+            "a": "Upanishads",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Justice, justice shall you pursue.",
+            "a": "Torah - Deuteronomy 16:20",
+            "source": "Judaism"
+        },
+        {
+            "q": "Be kind whenever possible. It is always possible.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Let all that you do be done in love.",
+            "a": "Bible - 1 Corinthians 16:14",
+            "source": "Christianity"
+        },
+        {
+            "q": "The real way to happiness is to live in the present moment.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Do good to others, it will come back in unexpected ways.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Seek knowledge from the cradle to the grave.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "Love your neighbor as yourself.",
+            "a": "Bible - Mark 12:31",
+            "source": "Christianity"
+        },
+        {
+            "q": "Do not be overcome by evil, but overcome evil with good.",
+            "a": "Bible - Romans 12:21",
+            "source": "Christianity"
+        },
+        {
+            "q": "The truth is from your Lord, so do not be among the doubters.",
+            "a": "Quran - 3:60",
+            "source": "Islam"
+        },
+        {
+            "q": "Speak what is true, speak what is pleasant, and do not speak unpleasant truths.",
+            "a": "Bhagavad Gita - 17.15",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Better than a thousand hollow words is one word that brings peace.",
+            "a": "Buddha - Dhammapada",
+            "source": "Buddhism"
+        },
+        {
+            "q": "What is hateful to you, do not do to others.",
+            "a": "Hillel - Talmud",
+            "source": "Judaism"
+        },
+        {
+            "q": "Happiness is not something ready made. It comes from your own actions.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "The best among you are those who have the best character.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "All action results from thought, so it is thoughts that matter.",
+            "a": "Upanishads",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Justice, justice shall you pursue.",
+            "a": "Torah - Deuteronomy 16:20",
+            "source": "Judaism"
+        },
+        {
+            "q": "Be kind whenever possible. It is always possible.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Let all that you do be done in love.",
+            "a": "Bible - 1 Corinthians 16:14",
+            "source": "Christianity"
+        },
+        {
+            "q": "The real way to happiness is to live in the present moment.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Do good to others, it will come back in unexpected ways.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Seek knowledge from the cradle to the grave.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "For every hardship there is relief.",
+            "a": "Quran - 94:5-6",
+            "source": "Islam"
+        },
+        {
+            "q": "The wound is the place where the Light enters you.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "The most beautiful things in life are not things. They're people, and places, and memories, and pictures.",
+            "a": "Ibn Qayyim Al-Jawziyyah",
+            "source": "Islam"
+        },
+        {
+            "q": "Be in this world as if you were a stranger or a traveler.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+            "a": "Torah Commentary",
+            "source": "Judaism"
+        },
+        {
+            "q": "Who is wise? One who learns from every person.",
+            "a": "Pirkei Avot 4:1",
+            "source": "Judaism"
+        },
+        {
+            "q": "The highest form of wisdom is kindness.",
+            "a": "The Talmud",
+            "source": "Judaism"
+        },
+        {
+            "q": "Love your fellow as yourself - this is a fundamental principle of the Torah.",
+            "a": "Rabbi Akiva",
+            "source": "Judaism"
+        },
+        {
+            "q": "If I am not for myself, who will be for me? If I am only for myself, what am I?",
+            "a": "Hillel - Pirkei Avot",
+            "source": "Judaism"
+        },
+        {
+            "q": "For God so loved the world that he gave his one and only Son.",
+            "a": "Bible - John 3:16",
+            "source": "Christianity"
+        },
+        {
+            "q": "Be strong and courageous. Do not be afraid; do not be discouraged.",
+            "a": "Bible - Joshua 1:9",
+            "source": "Christianity"
+        },
+        {
+            "q": "I can do all things through Christ who strengthens me.",
+            "a": "Bible - Philippians 4:13",
+            "source": "Christianity"
+        },
+        {
+            "q": "Faith is the substance of things hoped for, the evidence of things not seen.",
+            "a": "Bible - Hebrews 11:1",
+            "source": "Christianity"
+        },
+        {
+            "q": "The peace of God, which transcends all understanding, will guard your hearts.",
+            "a": "Bible - Philippians 4:7",
+            "source": "Christianity"
+        },
+        {
+            "q": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "When you want something, all the universe conspires in helping you to achieve it.",
+            "a": "The Alchemist",
+            "source": "Literature"
+        },
+        {
+            "q": "Your time is limited, don't waste it living someone else's life.",
+            "a": "Steve Jobs",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Peace comes from within. Do not seek it without.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "The journey of a thousand miles begins with one step.",
+            "a": "Lao Tzu",
+            "source": "Taoism"
+        },
+        {
+            "q": "Life shrinks or expands in proportion to one's courage.",
+            "a": "Anaïs Nin",
+            "source": "Literature"
+        },
+        {
+            "q": "The only way to do great work is to love what you do.",
+            "a": "Steve Jobs",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Everything has beauty, but not everyone sees it.",
+            "a": "Confucius",
+            "source": "Confucianism"
+        },
+        {
+            "q": "What you seek is seeking you.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "Those who cannot remember the past are condemned to repeat it.",
+            "a": "George Santayana",
+            "source": "Philosophy"
+        },
+        {
+            "q": "Two things awe me most - the starry sky above me and the moral law within me.",
+            "a": "Immanuel Kant",
+            "source": "Philosophy"
+        },
+        {
+            "q": "The unexamined life is not worth living.",
+            "a": "Socrates",
+            "source": "Philosophy"
+        },
+        {
+            "q": "Know thyself.",
+            "a": "Ancient Greek Aphorism",
+            "source": "Philosophy"
+        },
+        {
+            "q": "He who has a why to live can bear almost any how.",
+            "a": "Friedrich Nietzsche",
+            "source": "Philosophy"
+        },
+        {
+            "q": "The more you know, the more you realize you don't know.",
+            "a": "Aristotle",
+            "source": "Philosophy"
+        },
+        {
+            "q": "The purpose of our lives is to be happy.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Life is suffering. But you can transcend it.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "You have the right to work, but never to the fruit of work.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Change is the law of the universe. What you resist, persists.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "In the middle of difficulty lies opportunity.",
+            "a": "Albert Einstein",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "a": "Winston Churchill",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "a": "Chinese Proverb",
+            "source": "Eastern Wisdom"
+        },
+        {
+            "q": "Happiness is when what you think, what you say, and what you do are in harmony.",
+            "a": "Mahatma Gandhi",
+            "source": "Hinduism"
+        },
+        {
+            "q": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            "a": "Nelson Mandela",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Love your neighbor as yourself.",
+            "a": "Bible - Mark 12:31",
+            "source": "Christianity"
+        },
+        {
+            "q": "Do not be overcome by evil, but overcome evil with good.",
+            "a": "Bible - Romans 12:21",
+            "source": "Christianity"
+        },
+        {
+            "q": "The truth is from your Lord, so do not be among the doubters.",
+            "a": "Quran - 3:60",
+            "source": "Islam"
+        },
+        {
+            "q": "Speak what is true, speak what is pleasant, and do not speak unpleasant truths.",
+            "a": "Bhagavad Gita - 17.15",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Better than a thousand hollow words is one word that brings peace.",
+            "a": "Buddha - Dhammapada",
+            "source": "Buddhism"
+        },
+        {
+            "q": "What is hateful to you, do not do to others.",
+            "a": "Hillel - Talmud",
+            "source": "Judaism"
+        },
+        {
+            "q": "Happiness is not something ready made. It comes from your own actions.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "The best among you are those who have the best character.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "All action results from thought, so it is thoughts that matter.",
+            "a": "Upanishads",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Justice, justice shall you pursue.",
+            "a": "Torah - Deuteronomy 16:20",
+            "source": "Judaism"
+        },
+        {
+            "q": "Be kind whenever possible. It is always possible.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Let all that you do be done in love.",
+            "a": "Bible - 1 Corinthians 16:14",
+            "source": "Christianity"
+        },
+        {
+            "q": "The real way to happiness is to live in the present moment.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Do good to others, it will come back in unexpected ways.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Seek knowledge from the cradle to the grave.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "For every hardship there is relief.",
+            "a": "Quran - 94:5-6",
+            "source": "Islam"
+        },
+        {
+            "q": "The wound is the place where the Light enters you.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "The most beautiful things in life are not things. They're people, and places, and memories, and pictures.",
+            "a": "Ibn Qayyim Al-Jawziyyah",
+            "source": "Islam"
+        },
+        {
+            "q": "Be in this world as if you were a stranger or a traveler.",
+            "a": "Prophet Muhammad",
+            "source": "Islam"
+        },
+        {
+            "q": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+            "a": "Torah Commentary",
+            "source": "Judaism"
+        },
+        {
+            "q": "Who is wise? One who learns from every person.",
+            "a": "Pirkei Avot 4:1",
+            "source": "Judaism"
+        },
+        {
+            "q": "The highest form of wisdom is kindness.",
+            "a": "The Talmud",
+            "source": "Judaism"
+        },
+        {
+            "q": "Love your fellow as yourself - this is a fundamental principle of the Torah.",
+            "a": "Rabbi Akiva",
+            "source": "Judaism"
+        },
+        {
+            "q": "If I am not for myself, who will be for me? If I am only for myself, what am I?",
+            "a": "Hillel - Pirkei Avot",
+            "source": "Judaism"
+        },
+        {
+            "q": "For God so loved the world that he gave his one and only Son.",
+            "a": "Bible - John 3:16",
+            "source": "Christianity"
+        },
+        {
+            "q": "Be strong and courageous. Do not be afraid; do not be discouraged.",
+            "a": "Bible - Joshua 1:9",
+            "source": "Christianity"
+        },
+        {
+            "q": "I can do all things through Christ who strengthens me.",
+            "a": "Bible - Philippians 4:13",
+            "source": "Christianity"
+        },
+        {
+            "q": "Faith is the substance of things hoped for, the evidence of things not seen.",
+            "a": "Bible - Hebrews 11:1",
+            "source": "Christianity"
+        },
+        {
+            "q": "The peace of God, which transcends all understanding, will guard your hearts.",
+            "a": "Bible - Philippians 4:7",
+            "source": "Christianity"
+        },
+        {
+            "q": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "When you want something, all the universe conspires in helping you to achieve it.",
+            "a": "The Alchemist",
+            "source": "Literature"
+        },
+        {
+            "q": "Your time is limited, don't waste it living someone else's life.",
+            "a": "Steve Jobs",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Peace comes from within. Do not seek it without.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "The journey of a thousand miles begins with one step.",
+            "a": "Lao Tzu",
+            "source": "Taoism"
+        },
+        {
+            "q": "Life shrinks or expands in proportion to one's courage.",
+            "a": "Anaïs Nin",
+            "source": "Literature"
+        },
+        {
+            "q": "The only way to do great work is to love what you do.",
+            "a": "Steve Jobs",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Everything has beauty, but not everyone sees it.",
+            "a": "Confucius",
+            "source": "Confucianism"
+        },
+        {
+            "q": "What you seek is seeking you.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "Those who cannot remember the past are condemned to repeat it.",
+            "a": "George Santayana",
+            "source": "Philosophy"
+        },
+        {
+            "q": "Two things awe me most - the starry sky above me and the moral law within me.",
+            "a": "Immanuel Kant",
+            "source": "Philosophy"
+        },
+        {
+            "q": "The unexamined life is not worth living.",
+            "a": "Socrates",
+            "source": "Philosophy"
+        },
+        {
+            "q": "Know thyself.",
+            "a": "Ancient Greek Aphorism",
+            "source": "Philosophy"
+        },
+        {
+            "q": "He who has a why to live can bear almost any how.",
+            "a": "Friedrich Nietzsche",
+            "source": "Philosophy"
+        },
+        {
+            "q": "The more you know, the more you realize you don't know.",
+            "a": "Aristotle",
+            "source": "Philosophy"
+        },
+        {
+            "q": "The purpose of our lives is to be happy.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "Life is suffering. But you can transcend it.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "You have the right to work, but never to the fruit of work.",
+            "a": "Bhagavad Gita",
+            "source": "Hinduism"
+        },
+        {
+            "q": "Those who are able to see beyond the illusions of this world find happiness in every moment.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            "a": "Nelson Mandela",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Life is really simple, but we insist on making it complicated.",
+            "a": "Confucius",
+            "source": "Confucianism"
+        },
+        {
+            "q": "Act as if what you do makes a difference. It does.",
+            "a": "William James",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Success is not the key to happiness. Happiness is the key to success.",
+            "a": "Albert Schweitzer",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Let yourself be silently drawn by the strange pull of what you really love. It will not lead you astray.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "Be the change that you wish to see in the world.",
+            "a": "Mahatma Gandhi",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "The quieter you become, the more you are able to hear.",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "When I let go of what I am, I become what I might be.",
+            "a": "Lao Tzu",
+            "source": "Taoism"
+        },
+        {
+            "q": "Patience is not the ability to wait, but the ability to keep a good attitude while waiting.",
+            "a": "Joyce Meyer",
+            "source": "Christianity"
+        },
+        {
+            "q": "If you want to lift yourself up, lift up someone else.",
+            "a": "Booker T. Washington",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "If you are irritated by every rub, how will your mirror be polished?",
+            "a": "Rumi",
+            "source": "Islam"
+        },
+        {
+            "q": "He who does not trust enough will not be trusted.",
+            "a": "Lao Tzu",
+            "source": "Taoism"
+        },
+        {
+            "q": "The only journey is the one within.",
+            "a": "Rainer Maria Rilke",
+            "source": "Literature"
+        },
+        {
+            "q": "Be kind, for everyone you meet is fighting a hard battle.",
+            "a": "Plato",
+            "source": "Philosophy"
+        },
+        {
+            "q": "A man who conquers himself is greater than one who conquers a thousand men in battle.",
+            "a": "Buddha",
+            "source": "Buddhism"
+        },
+        {
+            "q": "In a gentle way, you can shake the world.",
+            "a": "Mahatma Gandhi",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Let yourself be guided by the principles of compassion, kindness, and tolerance.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "To know what you know and what you do not know, that is true knowledge.",
+            "a": "Confucius",
+            "source": "Confucianism"
+        },
+        {
+            "q": "Do not let the behavior of others destroy your inner peace.",
+            "a": "Dalai Lama",
+            "source": "Buddhism"
+        },
+        {
+            "q": "To love another person is to see the face of God.",
+            "a": "Victor Hugo - Les Misérables",
+            "source": "Literature"
+        },
+        {
+            "q": "The roots of education are bitter, but the fruit is sweet.",
+            "a": "Aristotle",
+            "source": "Philosophy"
+        },
+        {
+            "q": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+            "a": "Ralph Waldo Emerson",
+            "source": "Modern Wisdom"
+        },
+        {
+            "q": "Do small things with great love.",
+            "a": "Mother Teresa",
+            "source": "Christianity"
+        }
+    ]
+}
